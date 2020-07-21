@@ -1,5 +1,5 @@
 # UPM-AI-Bootcamp:
-The goal of this bootcamp is to provide students the basics of AI and its sub-fields.
+The goal of these meetings is to provide students the basics of AI and its sub-fields.
 
 ## Learning Objectives: 
 - Be able to implement AI (Machine Learning + Deep Learning) with related
