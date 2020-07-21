@@ -6,6 +6,3 @@ The goal of these meetings is to provide students the basics of AI and its sub-f
 packages and learn its application to solve real-world problems.
 
 - Understand the landscape of AI tools and their applications.
-
-- Have a high level understanding of, and practical experience with, the process of
-designing, implementing, and communicating the results of an AI project
