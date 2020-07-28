@@ -1,1 +1,3 @@
-
+- Introduction to Machine Learning
+- supervised learning vs unsupervised learning
+- Classification and Regression
