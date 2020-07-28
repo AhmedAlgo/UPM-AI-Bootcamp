@@ -1,2 +1,2 @@
-Introduction to AI
-Data Pre-processing
+- Introduction to AI
+- Data Pre-processing
